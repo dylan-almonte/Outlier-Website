@@ -1,0 +1,43 @@
+* 
+    margin: 10;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+
+body 
+    background:#080808;
+    
+
+#header 
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center; 
+
+.container 
+    padding: 10px 10%;
+
+/* work in progress with logo */
+.logo 
+    color: #fff;
+    font-size: 3rem;
+    width: 140px;
+    height: 40px;
+    text-decoration: none;
+    text-shadow: 0 0 3px #FF0000;
+
+.date-time 
+    color: #fff;
+    font-size: 20rem;
+    width: 140px;
+    height: 40px;
+    text-decoration: none;
+    text-shadow: 0 0 3px #FF0000;
+
+
+.header-text 
+    margin-top: 10%;
+    font-size: 100%;
+
+.header-text h1
+    margin-top: 20px;
